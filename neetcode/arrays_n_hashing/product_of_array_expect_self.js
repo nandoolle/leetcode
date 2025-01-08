@@ -28,5 +28,3 @@ const productExpectSelf = (nums) => {
 
   return result;
 }
-return result;
-}
