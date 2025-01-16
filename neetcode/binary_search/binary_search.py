@@ -12,7 +12,7 @@ def search(nums: List[int], target: int) -> int:
         else:
             return mid
 
-    return mid if nums[mid] == target else -1
+    return mid
 
 def search_upper_bound(nums: List[int], target: int) -> int:
     l, r = 0, len(nums)
