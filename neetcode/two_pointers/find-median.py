@@ -27,5 +27,4 @@ def findMedianSortedArrays(nums1: List[int], nums2: List[int]) -> float:
             l = a_mid_point +1
 
 print(findMedianSortedArrays([1,3], [2,4]))
-            
-        
+
